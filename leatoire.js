@@ -1,7 +1,8 @@
 const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/u4NWPDtu0qVh2cJ4wLUvE4bXWx6.jpg', lien: 'https://allstream26.blogspot.com/p/lady-yakuza.html#Lady Yakuza'},
-          { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/2nQYyiIhoUv6sEfolhzFwuoXZzU.jpg', lien: 'https://allstream26.blogspot.com/p/les-petits-champions.html#Les Petits Champions' },
-           { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/t1pfgb8r4Kx3qLN4H8vDZdfD50R.jpg', lien: 'https://allstream26.blogspot.com/p/portes-disparus.html#Portés Disparus' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/2nQYyiIhoUv6sEfolhzFwuoXZzU.jpg', lien: 'https://allstream26.blogspot.com/p/les-petits-champions.html#Les Petits Champions' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/t1pfgb8r4Kx3qLN4H8vDZdfD50R.jpg', lien: 'https://allstream26.blogspot.com/p/portes-disparus.html#Portés Disparus' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/bsmX4gJTEMvUbnZFJsUqpwGELMp.jpg', lien: 'https://allstream26.blogspot.com/p/san-ku-kai-1978.html#San Ku Kaï' },
 ];
 
 // 2. Fonction pour afficher l'image
