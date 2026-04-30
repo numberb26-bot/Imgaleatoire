@@ -1,0 +1,28 @@
+Pour afficher une image aléatoire avec un lien de destination en JavaScript, la méthode la plus robuste consiste à utiliser un tableau associatif ou un tableau d'objets contenant les paires URL image / URL lien, puis à sélectionner un index aléatoire. 
+
+Voici une implémentation moderne et concise :
+
+// 1. Définir les données (images et leurs liens associés)
+const imagesAleatoires = [
+    { img: 'image1.jpg', lien: 'https://site1.com' },
+    { img: 'image2.jpg', lien: 'https://site2.com' },
+    { img: 'image3.jpg', lien: 'https://site3.com' }
+];
+
+// 2. Fonction pour afficher l'image
+function afficherImageAleatoire() {
+    // Sélectionner un index aléatoire
+    const index = Math.floor(Math.random() * imagesAleatoires.length);
+    const selection = imagesAleatoires[index];
+
+    // Générer le HTML
+    const html = `<a href="${selection.lien}" target="_blank">
+                    <img src="${selection.img}" alt="Image aléatoire" />
+                  </a>`;
+
+    // Insérer dans le conteneur HTML (ex: div avec id="container")
+    document.getElementById('container').innerHTML = html;
+}
+
+// Lancer l'affichage au chargement
+window.addEventListener('load', afficherImageAleatoire);
