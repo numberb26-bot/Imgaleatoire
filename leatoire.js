@@ -12,6 +12,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w440_and_h660_face/coTVFmc2aiPRaYvcO3USHTiMLig.jpg', lien: 'https://allstream26.blogspot.com/p/canal-a.html#Ave César' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/p4ZW15twOPBgnMry2XrG0QNs5vQ.jpg', lien: 'https://allstream26.blogspot.com/p/canal-a.html#Avoir 17 ans... à 40 ans' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/ihbZo531NxnlUI6StF9SUwF9kIK.jpg', lien: 'https://allstream26.blogspot.com/p/canal-b.html#Break Street 84' },
+      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/5mwFJ521LHy7F7g2PrAbB3t9DoK.jpg', lien: 'https://allstream26.blogspot.com/p/canal-b.html#Ballistic' },
       ];
 
 // 2. Fonction pour afficher l'image
