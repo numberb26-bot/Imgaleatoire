@@ -16,7 +16,8 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/8xuxdpMAgXmgRyZuZRSlYVlW5OV.jpg', lien: 'https://allstream26.blogspot.com/p/canal-b.html#Bloodmoon' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/pAtj1hZsbDvhkCrpR2KT1LUfMuF.jpg', lien: 'https://allstream26.blogspot.com/p/canal-b.html#Bone Daddy' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/1kxn6w6lvKkrhmVxfVqI0cfBmLa.jpg', lien: 'https://allstream26.blogspot.com/p/canal-c.html#Crazy/Beautiful' },
-      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/uvJQGioxzhB6YMIfdOBTNhRfBXT.jpg', lien: 'https://allstream26.blogspot.com/p/canal-d.html#Disparus sans laisser de traces' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/uvJQGioxzhB6YMIfdOBTNhRfBXT.jpg', lien: 'https://allstream26.blogspot.com/p/canal-d.html#Disparus sans laisser de traces' },
+      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/7ARCl0Z7h7nGdw4HkQwJrpqRqpx.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Extreme Danger' },
       ];
 
 // 2. Fonction pour afficher l'image
