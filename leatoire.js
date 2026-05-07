@@ -18,8 +18,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/1kxn6w6lvKkrhmVxfVqI0cfBmLa.jpg', lien: 'https://allstream26.blogspot.com/p/canal-c.html#Crazy/Beautiful' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/uvJQGioxzhB6YMIfdOBTNhRfBXT.jpg', lien: 'https://allstream26.blogspot.com/p/canal-d.html#Disparus sans laisser de traces' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/7ARCl0Z7h7nGdw4HkQwJrpqRqpx.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Extreme Danger' },
-      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/7ppYIOB2ssNynJUU1i6FX4KqYly.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Encore plus de mystères de l'Ouest' },
-      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/4rs4zl3mSn5cO8Xb9IDxxKY5wly.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Engrenage Mortel' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/4rs4zl3mSn5cO8Xb9IDxxKY5wly.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Engrenage Mortel' },
       { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/wsXL08E4gQHWW5pRX4qpIyyeBfs.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Ethan Frome' },
       ];
 
