@@ -31,7 +31,7 @@ function afficherImageAleatoire() {
     const selection = imagesAleatoires[index];
 
     // Générer le HTML
-    const html = `<a href="${selection.lien}" target="_self">
+    const html = `<a href="${selection.lien}" target="_bank">
                     <img src="${selection.img}" width="190px" height="260px" alt="Image aléatoire" />
                   </a>`;
 
