@@ -22,6 +22,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/wsXL08E4gQHWW5pRX4qpIyyeBfs.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Ethan Frome' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/7ppYIOB2ssNynJUU1i6FX4KqYly.jpg', lien: 'https://allstream26.blogspot.com/p/canal-e.html#Encore plus de mysteres de lOuest' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/wLTsI5HUm5QB4ILmdBOR4UHeJQ6.jpg', lien: 'https://allstream26.blogspot.com/p/canal-f.html#Force Noire' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/d7ztUEeUpp3mGrD5xoLpi4sH8ad.jpg', lien: 'https://allstream26.blogspot.com/p/lady-snowblood.html#Lady Snowblood' },
       ];
 
 // 2. Fonction pour afficher l'image
