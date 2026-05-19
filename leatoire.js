@@ -33,7 +33,7 @@ function afficherImageAleatoire() {
 
     // Générer le HTML
     const html = `<a href="${selection.lien}" target="_top">
-                    <img src="${selection.img}" width="190px" height="260px" alt="Image aléatoire" />
+                    <img src="${selection.img}" width="190px" height="260px" alt="" />
                   </a>`;
 
     // Insérer dans le conteneur HTML (ex: div avec id="container")
