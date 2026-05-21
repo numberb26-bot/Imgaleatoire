@@ -27,7 +27,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/9dZFFdemagHwRydu5uuC9zaF1ID.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#High-Rise' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/1mAemPkRF6IwUkEehwqTJVEPmq6.jpg', lien: 'https://allstream26.blogspot.com/p/canal-c.html#Cuba' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/9CftPizIc8g2EaFcELC4cwMBgNA.jpg', lien: 'https://allstream26.blogspot.com/p/canal-c.html#Coups pour coups' },
-     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/dokAejva0YOH49wm9uLIeG6oLY2.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#He's My Girl' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/dokAejva0YOH49wm9uLIeG6oLY2.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#Hes My Girl' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/5QPnbZLJIO1r6vP9Uejf96V1U1w.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#House' },
       ];
 
