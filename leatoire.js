@@ -30,6 +30,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/9CftPizIc8g2EaFcELC4cwMBgNA.jpg', lien: 'https://allstream26.blogspot.com/p/coups-pour-coups-1990.html#Coups pour coups 1990' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/dokAejva0YOH49wm9uLIeG6oLY2.jpg', lien: 'https://allstream26.blogspot.com/p/hes-my-girl-1987.html#Hes My Girl 1987#Hes My Girl 1987' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/5QPnbZLJIO1r6vP9Uejf96V1U1w.jpg', lien: 'https://allstream26.blogspot.com/p/house-2008.html#House 2008' },
+     { img: 'https://media.themoviedb.org/t/p/w440_and_h660_face/vUmPzXgFiaoToJl1Lm2c2dUBGPH.jpg', lien: 'https://allstream26.blogspot.com/p/il-etait-une-fois-broadway-1989.html#Il etait une fois Broadway 1989' },
       ];
 
 // 2. Fonction pour afficher l'image
