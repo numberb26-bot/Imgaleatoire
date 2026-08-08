@@ -24,7 +24,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/7ppYIOB2ssNynJUU1i6FX4KqYly.jpg', lien: 'https://allstream26.blogspot.com/p/encore-plus-de-mysteres-de-louest-1980.html#Encore plus de mysteres de lOuest 1980' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/wLTsI5HUm5QB4ILmdBOR4UHeJQ6.jpg', lien: 'https://allstream26.blogspot.com/p/force-noire-1979.html#Force Noire 1979' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/d7ztUEeUpp3mGrD5xoLpi4sH8ad.jpg', lien: 'https://allstream26.blogspot.com/p/lady-snowblood.html#Lady Snowblood' },
-     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/sm4GAuVc07hU7Oj6DgPnWCIRcHS.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#Haute tension' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/sm4GAuVc07hU7Oj6DgPnWCIRcHS.jpg', lien: 'https://allstream26.blogspot.com/p/haute-tension-1997.html#Haute tension 1997' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/9dZFFdemagHwRydu5uuC9zaF1ID.jpg', lien: 'https://allstream26.blogspot.com/p/canal-h.html#High-Rise' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/1mAemPkRF6IwUkEehwqTJVEPmq6.jpg', lien: 'https://allstream26.blogspot.com/p/cuba-1979.html#Cuba 1979' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/9CftPizIc8g2EaFcELC4cwMBgNA.jpg', lien: 'https://allstream26.blogspot.com/p/coups-pour-coups-1990.html#Coups pour coups 1990' },
