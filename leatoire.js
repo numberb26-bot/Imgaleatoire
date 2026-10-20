@@ -6,7 +6,7 @@ const imagesAleatoires = [
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/hKk671SoqkwRXK9P4VsITIg3FUq.jpg', lien: 'https://allstream26.blogspot.com/p/total-security.html#Total Security' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/yipCOSHafg7wdsiDrkjd79YAN61.jpg', lien: 'https://allstream26.blogspot.com/p/ange-ou-demon-1991.html#Ange ou Demon 1991' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/WV1PV0G0RmKWdRkxFnacthKP1w.jpg', lien: 'https://allstream26.blogspot.com/p/adam-la-corde-rompue-1992.html#Adam la corde rompue 1992' },
-     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/rnjMGvlaXZnUkbMjGnMaxAbADIH.jpg', lien: 'https://allstream26.blogspot.com/p/x-or-le-sherif-de-lespace-1982.html#X-OR' },
+     { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/rnjMGvlaXZnUkbMjGnMaxAbADIH.jpg', lien: 'https://allstream26.blogspot.com/p/x-or-le-sherif-de-lespace-1982.html#Xor 1982' },
      { img: 'https://media.themoviedb.org/t/p/w440_and_h660_face/qAWG2aH18Wfg2vFWbPBXipavus0.jpg', lien: 'https://allstream26.blogspot.com/p/assassin-1986.html#Assassin 1986' },
      { img: 'https://media.themoviedb.org/t/p/w600_and_h900_face/zsPmvIKtlrFsDT6ROAoHBkGB9Gy.jpg', lien: ' https://allstream26.blogspot.com/p/audition-2000.html#Audition 2000' },
      { img: 'https://media.themoviedb.org/t/p/w440_and_h660_face/Ec9tItbkljpWYVMUyvktvhUjI0.jpg', lien: 'https://allstream26.blogspot.com/p/appelez-moi-monsieur-tibbs-1970.html#Appelez moi Monsieur Tibbs 1970' },
